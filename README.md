@@ -2,9 +2,8 @@
 
 **English** | [Français](#téléchargements)
 
-This repository hosts **downloadable installers only**. It contains no application
-source code, no build scripts, and no CI configuration — every release here is
-published automatically by a separate, private build pipeline.
+This repository hosts downloadable installers for the desktop apps. New builds
+are published here automatically.
 
 ## Downloading a build
 
@@ -25,22 +24,14 @@ Releases are tagged by product and build number:
 The newest release for each product is always at the top of the Releases page,
 sorted by publish date.
 
-## About this repository
-
-This account exists solely to distribute finished builds. If you're looking for
-the application source code, you're in the wrong place — it isn't here, and it
-never will be.
-
 ---
 
 # Téléchargements
 
 **Français** | [English](#app-releases)
 
-Ce dépôt héberge **uniquement des installateurs téléchargeables**. Il ne contient
-aucun code source de l'application, aucun script de build et aucune configuration
-CI — chaque version publiée ici l'est automatiquement par un pipeline de build
-privé distinct.
+Ce dépôt héberge les installateurs téléchargeables des applications de bureau.
+Les nouvelles versions y sont publiées automatiquement.
 
 ## Télécharger une version
 
@@ -61,9 +52,3 @@ Les versions sont identifiées par produit et numéro de build :
 
 La version la plus récente de chaque produit apparaît toujours en haut de la page
 Releases, triée par date de publication.
-
-## À propos de ce dépôt
-
-Ce compte sert uniquement à distribuer les builds finalisés. Si vous cherchez le
-code source de l'application, vous êtes au mauvais endroit — il n'est pas ici et
-ne le sera jamais.
