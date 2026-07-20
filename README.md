@@ -7,22 +7,18 @@ are published here automatically.
 
 ## Downloading a build
 
-Go to the **[Releases](../../releases)** page and pick the build you need. Each
-release includes a Windows installer (`.msi` and/or `.exe`) as a downloadable asset.
+Each product has its own branch. Download links are permanent — the same URL
+always serves the latest build for that product:
 
-## Which release is which product
+| Product | Installer (.exe) | Installer (.msi) |
+|---|---|---|
+| STIHL — Dibidani | [retail-manager-setup.exe](../../raw/main-stihl-dibidani/retail-manager-setup.exe) | [retail-manager-installer.msi](../../raw/main-stihl-dibidani/retail-manager-installer.msi) |
+| STIHL — Niamakoro | [retail-manager-setup.exe](../../raw/main-stihl-niamakoro/retail-manager-setup.exe) | [retail-manager-installer.msi](../../raw/main-stihl-niamakoro/retail-manager-installer.msi) |
+| Niamana Dubai | [retail-manager-setup.exe](../../raw/main-niamana-dubai/retail-manager-setup.exe) | [retail-manager-installer.msi](../../raw/main-niamana-dubai/retail-manager-installer.msi) |
+| MPM Food | [retail-manager-setup.exe](../../raw/main-mpm-food/retail-manager-setup.exe) | [retail-manager-installer.msi](../../raw/main-mpm-food/retail-manager-installer.msi) |
 
-Releases are tagged by product and build number:
-
-| Tag prefix | Product |
-|---|---|
-| `main-stihl-dibidani-*` | STIHL — Dibidani |
-| `main-stihl-niamakoro-*` | STIHL — Niamakoro |
-| `main-niamana-dubai-*` | Niamana Dubai |
-| `main-mpm-food-*` | MPM Food |
-
-The newest release for each product is always at the top of the Releases page,
-sorted by publish date.
+Each branch holds only that product's latest build — there's no build history
+to browse, just the newest installer.
 
 ---
 
@@ -35,20 +31,15 @@ Les nouvelles versions y sont publiées automatiquement.
 
 ## Télécharger une version
 
-Rendez-vous sur la page **[Releases](../../releases)** et choisissez la version
-souhaitée. Chaque publication inclut un installateur Windows (`.msi` et/ou `.exe`)
-en tant que fichier téléchargeable.
+Chaque produit a sa propre branche. Les liens de téléchargement sont
+permanents — la même URL sert toujours la dernière version pour ce produit :
 
-## Quelle version correspond à quel produit
+| Produit | Installateur (.exe) | Installateur (.msi) |
+|---|---|---|
+| STIHL — Dibidani | [retail-manager-setup.exe](../../raw/main-stihl-dibidani/retail-manager-setup.exe) | [retail-manager-installer.msi](../../raw/main-stihl-dibidani/retail-manager-installer.msi) |
+| STIHL — Niamakoro | [retail-manager-setup.exe](../../raw/main-stihl-niamakoro/retail-manager-setup.exe) | [retail-manager-installer.msi](../../raw/main-stihl-niamakoro/retail-manager-installer.msi) |
+| Niamana Dubai | [retail-manager-setup.exe](../../raw/main-niamana-dubai/retail-manager-setup.exe) | [retail-manager-installer.msi](../../raw/main-niamana-dubai/retail-manager-installer.msi) |
+| MPM Food | [retail-manager-setup.exe](../../raw/main-mpm-food/retail-manager-setup.exe) | [retail-manager-installer.msi](../../raw/main-mpm-food/retail-manager-installer.msi) |
 
-Les versions sont identifiées par produit et numéro de build :
-
-| Préfixe du tag | Produit |
-|---|---|
-| `main-stihl-dibidani-*` | STIHL — Dibidani |
-| `main-stihl-niamakoro-*` | STIHL — Niamakoro |
-| `main-niamana-dubai-*` | Niamana Dubai |
-| `main-mpm-food-*` | MPM Food |
-
-La version la plus récente de chaque produit apparaît toujours en haut de la page
-Releases, triée par date de publication.
+Chaque branche contient uniquement la dernière version de ce produit — pas
+d'historique à parcourir, juste le dernier installateur.
