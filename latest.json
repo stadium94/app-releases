@@ -1,11 +1,11 @@
 {
-  "notes": "Automated build from stadium92/retail-manager @ 1e65c312d376db7c4a911b947d66f117a6880087",
-  "pub_date": "2026-07-28T12:34:58Z",
+  "notes": "Automated build from stadium92/retail-manager @ 20171a33582721dfbbfcbc00ed64c3ec43d8e0ba",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSell1R1Ftd1RkK09JM25ya2gzcm1QK2NiTk81RlgrbWw3a1RaMm5LNU04VWtJZkd3Tm51cU5iTUJZMU5jUnBvdFU5Y2Y1VmJuOExvKzhxQTJ0aCs5cTdQNUQveFhUWlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjQyMDI4CWZpbGU6cmV0YWlsLW1hbmFnZXJfMC4yLjIwX3g2NC1zZXR1cC5leGUKK2UzVUxWSTBlUDdhMTZ3NDVwQlF5a2cvOVBaWGVEUmlNclY3MDlJOFlHKzZMQkpsQmZtZXZ1ZWVESmJvT3lWTFNzWGVTSjZpYVRxeVJTV2pZY2lJQmc9PQo=",
-      "url": "https://raw.githubusercontent.com/stadium94/app-releases/main-niamana-dubai/retail-manager-setup-0.2.20.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSell1R1Ftd1RkK0puRFViNGJmVmJvQ2lTV1BGd0J0c21ONlVjbEVyN3g0d2x4aENMSjRxbGFpd3NDZ1JFMGJrbnFvT3JoWS9PZnFkcmN1SnF4WjBZMDlNMGtLVkdXQ2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjQ5OTgzCWZpbGU6cmV0YWlsLW1hbmFnZXJfMC4yLjIxX3g2NC1zZXR1cC5leGUKb0g0Ykt0U2FQNkMrYTlmNEZaNysyWGxnRHdQVDZBZGNSdlY4RVo4N1BURzNaMnpzNGVPd2V4UGlzOHZ5SDJDYklZRDdWWEN3SGk5Rk52V3BoUlJhQmc9PQo=",
+      "url": "https://raw.githubusercontent.com/stadium94/app-releases/main-niamana-dubai/retail-manager-setup-0.2.21.exe"
     }
   },
-  "version": "0.2.20"
+  "version": "0.2.21",
+  "pub_date": "2026-07-28T14:47:50Z"
 }
