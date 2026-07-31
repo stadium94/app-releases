@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-07-31T14:29:13Z",
-  "notes": "Automated build from stadium91/retail-manager @ 7087c62254bd7be54f18161597d099919963c771",
-  "version": "0.2.14",
+  "pub_date": "2026-07-31T18:02:56Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/stadium94/app-releases/main-mpm-food/retail-manager-setup-0.2.14.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSell1R1Ftd1RkK01ZQnZqeEtTMGV4NVNwRm1aTC9KZDQ3ajY5RVNDTFhld25abXFkMUxmT0JkeXQ4aEIvNkt0NCtMYjZvWEZOV1lhT0tXQ216K1BVT0JlTk0wSFJRRmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTA4MTA4CWZpbGU6cmV0YWlsLW1hbmFnZXJfMC4yLjE0X3g2NC1zZXR1cC5leGUKRUQ3dy8xZDliZE9KNllVbVFSVERUZTBlWGxkcVljVHAxdUkraHpEQ3hsMEdSRXdQcUd6R1ZhNEdHVTNDYlpYWldueGtVUXBUeUlSd0hjTHp6SFZJQ1E9PQo="
+      "url": "https://raw.githubusercontent.com/stadium94/app-releases/main-mpm-food/retail-manager-setup-0.2.15.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSell1R1Ftd1RkK1BuaEhpVWp5T2JZajhOY1lIUXk5eGFMc0Mxam1nZWx3MEhNMEFxODZlMmhoWVptZDY3QmtNODJlUWpickhTbmlHcFJNTHkxVHlER2xQRmpnVWJqVGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTIwOTEwCWZpbGU6cmV0YWlsLW1hbmFnZXJfMC4yLjE1X3g2NC1zZXR1cC5leGUKTXVLeTJGaFQrQjNMciswWDRZYmpDall0ZXdZbjZWV0RWc1g2bmFGcjEySi9UVEZBK3d3dllUZ1pIZm1OdDBlbyswM1h1c3d0QmV6ajlBTEt6Q0o3REE9PQo="
     }
-  }
+  },
+  "version": "0.2.15",
+  "notes": "Automated build from stadium91/retail-manager @ e41e8b2167e5d3f2256625b5ab3707d6118e4e72"
 }
