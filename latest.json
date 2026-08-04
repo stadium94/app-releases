@@ -1,11 +1,11 @@
 {
-  "version": "0.2.16",
+  "pub_date": "2026-08-04T11:35:23Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSell1R1Ftd1RkK0RMQzhNeTI4QWNBM2RJeVlZZ1ZEaXVVSGRDTXhzUGZ3Y2xhdUVmREtvbkhOYWkyZlQrdDY3a0Zyc0ZmYjBuYmVNTWxqSDZGaDM5STRON0hOUWZZYXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTIwNTYzCWZpbGU6cmV0YWlsLW1hbmFnZXJfMC4yLjE2X3g2NC1zZXR1cC5leGUKVUs3Mk5ncmhJcmFISXJ2S3hEU2V3bjdSbjE2cStMZFVOaHY5bHA0VFd6MkRzdEVnKzNha1owQzFwc0lzaUZpWXFiTjdhUzNobDE4MU5WcDRsZDczRGc9PQo=",
-      "url": "https://raw.githubusercontent.com/stadium94/app-releases/main-stihl-niamakoro/retail-manager-setup-0.2.16.exe"
+      "url": "https://raw.githubusercontent.com/stadium94/app-releases/main-stihl-niamakoro/retail-manager-setup-0.2.17.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSell1R1Ftd1RkK05xRzAyalZWNXVJZkIvWXJQZGdlSE1FZWJmb0IwamNMbG1CQVppVHR4aHRrenk2bGhoVzdiMzgyNUdIL01LbGc1ZmlrZXVUajJsa0ZSMkRNYm5Ia2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODQzMjE1CWZpbGU6cmV0YWlsLW1hbmFnZXJfMC4yLjE3X3g2NC1zZXR1cC5leGUKUDVtTnkzZDNVaUJHMlh0VWNac1B5R0dVRG1KaFZwcU1HWGtUalJDVVp2MVFRZTB5L21rWEJiUjJvalRleUkxSjl5Rm1xYmtZb2xVQkhXT2xEeWJGQXc9PQo="
     }
   },
-  "pub_date": "2026-07-31T17:57:49Z",
-  "notes": "Automated build from stadium91/retail-manager @ a5ce84e147366381da604d3948f07392228070dc"
+  "notes": "Automated build from stadium91/retail-manager @ c1b57679a2ba0e9f3fed80b350966082a16e7515",
+  "version": "0.2.17"
 }
