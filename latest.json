@@ -1,11 +1,11 @@
 {
-  "version": "0.2.34",
-  "pub_date": "2026-09-02T15:30:24Z",
-  "notes": "Automated build from stadium91/retail-manager @ 9cb6d44c7e7df5eb2844f68af898083fbc88fba5",
+  "notes": "Automated build from stadium91/retail-manager @ 5ab452942abc5bdc5b77822d710b588f468623bd",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/stadium94/app-releases/main-stihl-dibidani/retail-manager-setup-0.2.34.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSell1R1Ftd1RkK0xnNitqUmxXKzNZTU13UUxYT0M5ekwwQllrSXRCWEd6cHhza0wxSGwvSHNSUyt5OHRTcm9xVWJndGttK3hjMG5KUllVUEJ3NUY1elVtSDcrQ2ZwNVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MzYyNzc0CWZpbGU6cmV0YWlsLW1hbmFnZXJfMC4yLjM0X3g2NC1zZXR1cC5leGUKK0hBazM1Q29ybU1tV1Z3Y3JLWVhLQ0FQajlyS1ZnUlRkbzYwZFkyV3gwRk5SSWhoOW9YVHZqQVZYNUk5OCtBWHQ0SGh0OGhkaXNPZVVNeXNab0w1REE9PQo="
+      "url": "https://raw.githubusercontent.com/stadium94/app-releases/main-stihl-dibidani/retail-manager-setup-0.2.35.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSell1R1Ftd1RkK0JwZ0RYY1hsYVFrdDk1NHNCaDZIdWhrZlZmMHBDeXZNQkhIU0Uxd3pqRCt4aVBTWG0wc0xNTC80bGNBZmNwR2haVUJsdXcrMFArQmFOUkpWTnZ4RUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Mzg5NjkyCWZpbGU6cmV0YWlsLW1hbmFnZXJfMC4yLjM1X3g2NC1zZXR1cC5leGUKa3B0eTVrVVBwRDNkc0tSdEFyOVFUNVJhSHpmSDB1WjhFYnF5ZmozNlcvSGtRYXQ2dHRzWU9jWHUrSjN0cmxBeWh3ZE1MSmNNV2VqU3Qxa2FUVlRBQ0E9PQo="
     }
-  }
+  },
+  "version": "0.2.35",
+  "pub_date": "2026-09-14T12:45:12Z"
 }
